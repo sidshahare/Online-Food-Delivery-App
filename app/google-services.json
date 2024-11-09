@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "502061175371",
+    "firebase_url": "https://addmin-wave-of-food-1-default-rtdb.firebaseio.com",
+    "project_id": "addmin-wave-of-food-1",
+    "storage_bucket": "addmin-wave-of-food-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502061175371:android:a166474807244213d4b3ce",
+        "android_client_info": {
+          "package_name": "com.example.addminwaveoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502061175371-of1n053995lbcpqvjh3jl2ho3h4d0pjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addminwaveoffood",
+            "certificate_hash": "3c3a5442a43ff11fcc94cf3b4f6e599e9abf09cb"
+          }
+        },
+        {
+          "client_id": "502061175371-40d21qdqi5smcsauldnqpgt7f9k25dvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9L9jjbZPSrxCCSAvL3qWkCr6rju5tjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502061175371-40d21qdqi5smcsauldnqpgt7f9k25dvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502061175371:android:674e210994e2a89bd4b3ce",
+        "android_client_info": {
+          "package_name": "com.example.wavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502061175371-40d21qdqi5smcsauldnqpgt7f9k25dvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9L9jjbZPSrxCCSAvL3qWkCr6rju5tjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502061175371-40d21qdqi5smcsauldnqpgt7f9k25dvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

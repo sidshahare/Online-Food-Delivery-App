@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alata</item>
+        <item>@font/alatsi</item>
+        <item>@font/aldrich</item>
+        <item>@font/aleo_light</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amaranth</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/days_one</item>
+        <item>@font/lato_thin</item>
+    </array>
+</resources>
