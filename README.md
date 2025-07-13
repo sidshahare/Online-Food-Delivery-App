@@ -44,7 +44,7 @@ This project showcases secure authentication, real-time data sync, push notifica
 
 Here’s the customer dashboard view:
 
-![Customer Dashboard]("C:\Users\siddh\OneDrive\Desktop\downloads\1.jpeg")
+![Customer Dashboard](https://github.com/sidshahare/Online-Food-Delivery-App/blob/8c95f26031ca914b82c728a1f5e26b651845da2a/1.jpeg)
 )
 
 Here’s the restaurant owner panel:
